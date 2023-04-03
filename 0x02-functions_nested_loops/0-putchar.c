@@ -1,11 +1,14 @@
+<<<<<<< HEAD
 #include <main.h>
+=======
+#include "main.h"
+>>>>>>> 294f727eb161d030a81422e993443e4b8d962c4b
 /**
-  *main - program that prints _putchar
-  *Return: returns 0
-  */
-
+ * main - main function
+ * _putchar: print the alphabet _putchar
+ * Return: returns 0
+ */
 int main(void)
-
 {
 	_putchar('_');
 	_putchar('p');
