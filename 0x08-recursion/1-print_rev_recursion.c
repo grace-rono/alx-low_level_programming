@@ -4,7 +4,6 @@
  * @s: the input
  * Return: returns 0
  */
-
 void _print_rev_recursion(char *s)
 {
 	if (*s)
